@@ -1,11 +1,3 @@
-// let a = prompt("enter number");
-// console.log(a)
-// if(a % 2 == 0){
-//    console.log("the number is even")
-// }
-// else {
-//     console.log("number is odd")
-// }
 let calculator= {
     Num1: Number(prompt("Enter Number 1")),
     Num2: Number(prompt("Enter Number 2")),
